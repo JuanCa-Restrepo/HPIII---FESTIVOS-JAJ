@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oP9phvZXcsk=",
+  "dgSpecHash": "FjIRnIlHmPE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanc\\Documents\\HERRAMIENTAS III\\Festivos.Dominio\\Festivos.Dominio\\Festivos.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\juanc\\Documents\\HERRAMIENTAS III\\Festivos.Dominio\\Festivos.Persistencia\\Festivos.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\juanc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
