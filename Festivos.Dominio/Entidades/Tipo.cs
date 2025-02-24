@@ -14,6 +14,6 @@ namespace Festivos.Dominio.Entidades
         public int Id { get; set; }
 
         [Column("TipoFestivo")] 
-        public string TipoFestivo { get; set; }
+        public required string TipoFestivo { get; set; }
     }
 }
