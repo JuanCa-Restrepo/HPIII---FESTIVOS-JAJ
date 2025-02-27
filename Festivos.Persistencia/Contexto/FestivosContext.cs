@@ -16,7 +16,7 @@ namespace Festivos.Persistencia.Contexto
         public DbSet<Festivo> Festivos { get; set; }
         public DbSet<Tipo> Tipos { get; set; }
 
-        void OnModerñCreating(ModelBuilder Builder)
+        protected override void OnModelCreating(ModelBuilder Builder)
         {
             Builder.Entity<Festivo>(Entidad =>
                 { Entidad.HasKey(e => e.Id);
