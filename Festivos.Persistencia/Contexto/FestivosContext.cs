@@ -14,7 +14,7 @@ namespace Festivos.Persistencia.Contexto
         {
         }
         public DbSet<Festivo> Festivos { get; set; }
-        public DbSet<Tipo> Tipos { get; set; }
+        public DbSet<Tipo> Tipos { get; set; }  
 
         protected override void OnModelCreating(ModelBuilder Builder)
         {
